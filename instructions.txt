@@ -1,0 +1,7 @@
+git add .
+git commit -m "<Name>"
+git push "<repository name>"
+
+
+
+git pull "<repository name>"
